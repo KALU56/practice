@@ -1,18 +1,5 @@
-# Ignore the virtual environment
-venv/
-
-# Ignore Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+# Ignore the data folder
+data/
 
 # Ignore all CSV files
 *.csv
-
-# Ignore data directory
-data/
-
-# Ignore Python cache files
-__pycache__/
-*.pyc
-
-# Ignore environment configuration
-.env
